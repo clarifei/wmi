@@ -19,7 +19,6 @@
 *.a
 *.lib
 
-*.exe
 *.out
 *.app
 
